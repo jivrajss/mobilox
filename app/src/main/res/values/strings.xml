@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mobilox</string>
+    <string name="text_set_preference">Set Preferences</string>
+    <string name="text_more_preference">More Preferences</string>
+    <string name="text_set">Set</string>
+    <string name="text_reset">ReSet</string>
+    <string name="prompt_name">Name</string>
+    <string name="action_next">NEXT</string>
+    <string name="prompt_email">Email id</string>
+    <string name="prompt_phone">Contact Number</string>
+    <string name="hint_comment">Type Comment</string>
+    <string name="text_submit">Submit</string>
+</resources>

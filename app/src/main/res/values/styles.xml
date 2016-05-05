@@ -1,0 +1,22 @@
+<resources>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="background">@color/primary</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primart_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:textColor">@color/md_grey_600</item>
+        <item name="android:textColorPrimary">@color/md_white_1000</item>
+        <item name="android:windowBackground">@color/background_material_light</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
